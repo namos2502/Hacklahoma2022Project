@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245701778332",
+    "project_id": "slim-chicken",
+    "storage_bucket": "slim-chicken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245701778332:android:a2cb515f3ea14116d38659",
+        "android_client_info": {
+          "package_name": "com.example.chickenclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245701778332-bquim21tufh873sbemoqgck5np3fmlo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmYuOqoDkI1RbMfTm-fSYoM-gcAh6GoPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245701778332-bquim21tufh873sbemoqgck5np3fmlo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
