@@ -1,6 +1,3 @@
-# Hacklahoma2022Project
-This was a project which me and two other people made at the university of oklahoma
-2022 hackathon and its official name is called chicken clinic application
 ## About the app
 This is an android application for clinics to register information about their clients
 for example the person would sign up and then enter their information. Afterwards they
